@@ -6,20 +6,20 @@ Sherlog iki katmanlı bir boru hattıdır. Makine öğrenmesi modelleri ağ traf
 
 ![Sherlog mimarisi](docs/mimari.png)
 
-| Katman | Depo | Sorumlu |
-| --- | --- | --- |
-| Tespit: veri işleme, anomali tespiti, SHAP | bu depo | Halime Şahnur Çöğür |
-| Dil modeli: bağlam, yerel LLM, doğrulayıcı | [sherlog-llm](https://github.com/Yagmurkalyoncu/sherlog-llm) | Yağmur Kalyoncu |
+| Katman | Sorumlu |
+| --- | --- |
+| Tespit: veri işleme, anomali tespiti, SHAP  | Halime Şahnur Çöğür |
+| Dil modeli: bağlam, yerel LLM, doğrulayıcı | Yağmur Kalyoncu |
 
 ## Durum
 
-| Bileşen | Durum |
-| --- | --- |
-| Veri ön işleme ve kayıt numaralandırma | Çalışıyor |
-| Random Forest ve Isolation Forest karşılaştırması | Çalışıyor, ilk sonuçlar aşağıda |
-| SHAP ile uyarı nedeni | Çalışıyor |
-| Uyarıların dil modeli katmanına aktarımı (`uyarilar.json`) | Çalışıyor |
-| Zaman penceresi öznitelikleri | Sıradaki adım |
+| Bileşen |
+| --- |
+| Veri ön işleme ve kayıt numaralandırma | 
+| Random Forest ve Isolation Forest karşılaştırması | 
+| SHAP ile uyarı nedeni | 
+| Uyarıların dil modeli katmanına aktarımı (`uyarilar.json`) | 
+| Zaman penceresi öznitelikleri | 
 
 ## İlk sonuçlar
 
