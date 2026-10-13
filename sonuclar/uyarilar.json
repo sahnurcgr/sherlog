@@ -1,0 +1,157 @@
+[
+  {
+    "uyari_id": "U-0001",
+    "kaynak_hedef": "172.16.0.1 -> 192.168.10.50",
+    "akis_sayisi": 47634,
+    "puan": 0.9999,
+    "gercek_etiket": "PortScan",
+    "kayitlar": [
+      "L38601",
+      "L38757",
+      "L38627",
+      "L38629",
+      "L38979",
+      "L39403",
+      "L38600",
+      "L38621",
+      "L38599",
+      "L39824",
+      "L39629",
+      "L39649",
+      "L39660",
+      "L40020",
+      "L39571",
+      "L40015",
+      "L39861",
+      "L39886",
+      "L39615",
+      "L39859"
+    ],
+    "satirlar": [
+      {
+        "id": "L38601",
+        "metin": "7/7/2017 1:55 172.16.0.1:54987 -> 192.168.10.50:22 proto=6 ileri_paket=2 geri_paket=1 sure_us=591"
+      },
+      {
+        "id": "L38757",
+        "metin": "7/7/2017 1:55 172.16.0.1:57636 -> 192.168.10.50:444 proto=6 ileri_paket=1 geri_paket=1 sure_us=125"
+      },
+      {
+        "id": "L38627",
+        "metin": "7/7/2017 1:55 172.16.0.1:57636 -> 192.168.10.50:22 proto=6 ileri_paket=2 geri_paket=1 sure_us=699"
+      },
+      {
+        "id": "L38629",
+        "metin": "7/7/2017 1:55 172.16.0.1:57636 -> 192.168.10.50:80 proto=6 ileri_paket=2 geri_paket=1 sure_us=598"
+      },
+      {
+        "id": "L38979",
+        "metin": "7/7/2017 1:55 172.16.0.1:38040 -> 192.168.10.50:21 proto=6 ileri_paket=2 geri_paket=1 sure_us=653"
+      },
+      {
+        "id": "L39403",
+        "metin": "7/7/2017 1:55 172.16.0.1:34551 -> 192.168.10.50:443 proto=6 ileri_paket=1 geri_paket=1 sure_us=94"
+      },
+      {
+        "id": "L38600",
+        "metin": "7/7/2017 1:55 172.16.0.1:54987 -> 192.168.10.50:443 proto=6 ileri_paket=1 geri_paket=1 sure_us=102"
+      },
+      {
+        "id": "L38621",
+        "metin": "7/7/2017 1:55 172.16.0.1:63214 -> 192.168.10.50:21 proto=6 ileri_paket=2 geri_paket=1 sure_us=648"
+      },
+      {
+        "id": "L38599",
+        "metin": "7/7/2017 1:55 172.16.0.1:54987 -> 192.168.10.50:80 proto=6 ileri_paket=2 geri_paket=1 sure_us=671"
+      },
+      {
+        "id": "L39824",
+        "metin": "7/7/2017 1:56 172.16.0.1:49467 -> 192.168.10.50:444 proto=6 ileri_paket=1 geri_paket=1 sure_us=90"
+      },
+      {
+        "id": "L39629",
+        "metin": "7/7/2017 1:56 172.16.0.1:63860 -> 192.168.10.50:444 proto=6 ileri_paket=1 geri_paket=1 sure_us=119"
+      },
+      {
+        "id": "L39649",
+        "metin": "7/7/2017 1:56 172.16.0.1:37710 -> 192.168.10.50:22 proto=6 ileri_paket=2 geri_paket=1 sure_us=689"
+      },
+      {
+        "id": "L39660",
+        "metin": "7/7/2017 1:56 172.16.0.1:49467 -> 192.168.10.50:80 proto=6 ileri_paket=2 geri_paket=1 sure_us=773"
+      },
+      {
+        "id": "L40020",
+        "metin": "7/7/2017 1:56 172.16.0.1:46683 -> 192.168.10.50:444 proto=6 ileri_paket=1 geri_paket=1 sure_us=155"
+      },
+      {
+        "id": "L39571",
+        "metin": "7/7/2017 1:56 172.16.0.1:45758 -> 192.168.10.50:22 proto=6 ileri_paket=2 geri_paket=1 sure_us=715"
+      },
+      {
+        "id": "L40015",
+        "metin": "7/7/2017 1:56 172.16.0.1:46683 -> 192.168.10.50:443 proto=6 ileri_paket=1 geri_paket=1 sure_us=94"
+      },
+      {
+        "id": "L39861",
+        "metin": "7/7/2017 1:56 172.16.0.1:46031 -> 192.168.10.50:80 proto=6 ileri_paket=2 geri_paket=1 sure_us=779"
+      },
+      {
+        "id": "L39886",
+        "metin": "7/7/2017 1:56 172.16.0.1:46031 -> 192.168.10.50:444 proto=6 ileri_paket=1 geri_paket=1 sure_us=155"
+      },
+      {
+        "id": "L39615",
+        "metin": "7/7/2017 1:56 172.16.0.1:63860 -> 192.168.10.50:21 proto=6 ileri_paket=2 geri_paket=1 sure_us=752"
+      },
+      {
+        "id": "L39859",
+        "metin": "7/7/2017 1:56 172.16.0.1:46031 -> 192.168.10.50:21 proto=6 ileri_paket=2 geri_paket=1 sure_us=871"
+      }
+    ],
+    "nedenler": [
+      {
+        "oznitelik": "Fwd Packet Length Mean",
+        "etki": 0.0585
+      },
+      {
+        "oznitelik": "Packet Length Mean",
+        "etki": 0.0486
+      },
+      {
+        "oznitelik": "PSH Flag Count",
+        "etki": 0.0383
+      }
+    ]
+  },
+  {
+    "uyari_id": "U-0002",
+    "kaynak_hedef": "192.168.10.25 -> 192.168.10.3",
+    "akis_sayisi": 1,
+    "puan": 0.72,
+    "gercek_etiket": "BENIGN",
+    "kayitlar": [
+      "L6932"
+    ],
+    "satirlar": [
+      {
+        "id": "L6932",
+        "metin": "7/7/2017 1:17 192.168.10.25:52411 -> 192.168.10.3:3268 proto=6 ileri_paket=5 geri_paket=2 sure_us=1474"
+      }
+    ],
+    "nedenler": [
+      {
+        "oznitelik": "Fwd Packet Length Mean",
+        "etki": 0.0505
+      },
+      {
+        "oznitelik": "PSH Flag Count",
+        "etki": 0.0487
+      },
+      {
+        "oznitelik": "Subflow Fwd Bytes",
+        "etki": 0.037
+      }
+    ]
+  }
+]

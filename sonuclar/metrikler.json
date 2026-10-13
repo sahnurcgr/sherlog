@@ -1,0 +1,25 @@
+{
+  "veri": "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv",
+  "kayit_sayisi": 286096,
+  "oznitelik_sayisi": 79,
+  "saldiri_orani": 0.5551,
+  "bolme": "%70 egitim / %30 test, tabakali, random_state=42",
+  "random_forest": {
+    "kesinlik": 1.0,
+    "duyarlilik": 0.9999,
+    "f1": 0.9999,
+    "yanlis_alarm_orani": 0.0,
+    "yanlis_alarm_sayisi": 1,
+    "kacirilan_saldiri": 7,
+    "test_ornegi": 85829
+  },
+  "isolation_forest": {
+    "kesinlik": 0.026,
+    "duyarlilik": 0.0017,
+    "f1": 0.0031,
+    "yanlis_alarm_orani": 0.0775,
+    "yanlis_alarm_sayisi": 2959,
+    "kacirilan_saldiri": 47562,
+    "test_ornegi": 85829
+  }
+}
